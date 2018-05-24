@@ -1,0 +1,62 @@
+[
+        {
+                "name": "Compentus",
+                "url": "https://compentus.se/",
+                "img": "./assets/Images/companies/compentus-facebook-banner.jpg"
+        },
+        {
+                "name": "Lexicon",
+                "url": "https://www.lexicon.se/IT-proffs/IT-Proffs/Oversikt/",
+                "img": "./assets/Images/companies/lexicon-header.jpg"
+        },
+        {
+                "name": "H&M",
+                "url": "http://www2.hm.com/sv_se/index.html",
+                "img": "./assets/Images/companies/hm.jpg"
+        },
+        {
+                "name": "DigitalStratigi Skandinavian AB",
+                "url": "https://www.digitalstrategi.se/",
+                "img": "./assets/Images/companies/logo_primar_retina.png"
+        },
+        {
+                "name": "More than Themes",
+                "url": "https://www.morethanthemes.com/",
+                "img": "./assets/Images/companies/mtt_logo_alt.jpg"
+        },
+        {
+                "name": "PalaiaPolis",
+                "url": "http://www.palaiapolis.gr",
+                "img": "./assets/Images/companies/logo.png"
+        },
+        {
+                "name": "Henkel",
+                "url": "https://www.henkel.se/",
+                "img": "./assets/Images/companies/download.jpg"
+        },
+        {
+                "name": "Aleppo University",
+                "url": "http://www.alepuniv.edu.sy/university/university-aleppo?language=en",
+                "img": "./assets/Images/companies/aleppo.jpg"
+        },
+        {
+                "name": "NTI",
+                "url": "https://www.nti.se/",
+                "img": "./assets/Images/companies/nti-logotype.png"
+        },
+        {
+                "name": "Athens University",
+                "url": "http://www.athens.edu/",
+                "img": "./assets/Images/companies/logo_national_and_kapodistrian_uni_athene.jpg"
+        },
+        {
+                "name": "Dimokritos University",
+                "url": "http://www.ee.duth.gr/en/",
+                "img": "./assets/Images/companies/democritus.png"
+        },
+        {
+                "name": "",
+                "url": "",
+                "img": ""
+        }
+]

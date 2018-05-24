@@ -1,0 +1,82 @@
+[
+        {
+                "name": "MailStamp",
+                "description": "An cross-platform e-mail signature that generate an e-mail signature for different platforms. the application has by itself some default template which can the user use. But also has the ability to generate and custom template according to the user needs. We are using Asp .Net on the backend and MS server, the frontend side used Bootstrab HTML5 and SASS.",
+                "imgUrl": "../assets/Images/projects/mailstamp.png",
+                "alt": "mail signature",
+                "members": "4 persons",
+                "link": "http://mailstamp.compentus.se/"
+        },
+        {
+                "name": "CompentusAB",
+                "description": "An application that presents CompentusAB company, the application build with Angular5, SASS, HTML5, TypeScript. We had implemanted many new features in this application like the animated package, Json to render dynamiclly the news, hotjar, GoogleMasterTools.",
+                "imgUrl": "./assets/Images/projects/compentus.jpg",
+                "alt": "CompentusAB",
+                "members": "5 persons",
+                "link": "https://compentus.se/"
+        },
+        {
+                "name": "IFM, Information Flow Monitoring",
+                "description": "This project was one of the most challanged project, because in this project we used our knowladge as developers but also as engineers to process different tables from the database and collecte specific Information and show this informtion on tables and with charts. The project is in-House project, and it requred a lot of understanding the customer needs. We used ASP.NET and MS server on the backend, on the fron we used AngularJs, HTMLs and CSS3.",
+                "imgUrl": "../assets/Images/projects/flow.jpg",
+                "alt":"flow monitoring",
+                "members":"4 persons",
+                "link": ""
+        },
+        {
+                "name": "Barbare Glossy Alloy",
+                "description": "A mobile-application, is the Titanium Alloy implementation of the quit popular Barebone Glossy which is implemented by following the “Titanium Classic CommonJS” method. Barebone Glossy Alloy is the bootstrap you need in order to build your next Shiny and Glossy Alloy based Titanium application. It is a well structured, well organized and implemented, full working app that comes with all the ingredients a modern application needs. Best practices, proven techniques and experienced software architecture are packed with a well crafted design.",
+                "imgUrl": "../assets/Images/projects/application.png",
+                "alt":"mobile application",
+                "members":"13 persons",
+                "link": "https://codecanyon.net/item/barebone-glossy-alloy/11173731"
+        },
+        {
+                "name": "PalaiaPolis",
+                "description": "An web-application for hotel-resturant, the application built with CMS Joomla, HTML5, CSS3, PHP. this application was challanged, because we had a lot of requirments from the customer both on the design side and also on the serverside and functionality. the application rate on more than 2.5k visitors untill now.",
+                "imgUrl": "../assets/Images/projects/palaiapolis.png",
+                "alt":"resturant coffee",
+                "members":"2 persons",
+                "link": "http://www.palaiapolis.gr/"
+        },
+        {
+                "name": "MailSpamFiler",
+                "description": "Automated reference system for Unsolicited Communication: is an application which developed to the Dimokritus university of Thrace in Xanthi Greece under my master thesis, the application used on webmail and it is responsible about markes the spam e-mail and send feedback to the system administrator with the neccessary information about the sender. the application was challanged because I used a lot of technology to build it, webmail, Roundcube mail server, Python 3, sqlite. The application is in-house project at the mail of the university.",
+                "imgUrl": "https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg",
+                "alt":"spam filter",
+                "members":"2 persons",
+                "link": ""
+        },
+        {
+                "name": "SchoolForum",
+                "description": "A GitHub, hoppy project, the project built in ASP .NET MVC5 on the backend, front side I am using jQuery HTML5, CSS3. the project is about shool foum, which both the studen, the teacher and the parents can logIn, the teachers can create different classes and categories and assign students to, the studens can also create different categories and have a chat about topics that the belong to.",
+                "imgUrl": "./assets/Images/projects/schoolforum.png",
+                "alt":"schoolforum Asp.Net",
+                "members":"4 persons",
+                "link": "https://github.com/Taleb01/SchoolForum"
+        },
+        {
+                "name": "GymClass",
+                "description": "A GitHub, hoppy project, the project built in ASP .NET MVC5. The application used to administer and manage gym class booking and members. The goal of the application user management.",
+                "imgUrl": "./assets/Images/projects/gym.png",
+                "alt":"gym",
+                "members":"2 persons",
+                "link": "https://github.com/Taleb01/GymClass-V0.2"
+        },
+        {
+                "name": "MVC-Garage-Application",
+                "description": "A GitHub, hoppy project, the project built in ASP .NET MVC5. The application has to do with Garage handling. The user will be able to park and unpark one of the four vehicle types i.e. airplane, car, motorcycle and boat which we use in the application. At the same time the user should have full information about the parking time, the different types of vehicles allowed at the garage, and the user should also receive a receipt when it is about to unpark. Finally the user should have the ability to search different types of vehicles or to search for a particular vehicle using any of it's properties.",
+                "imgUrl": "./assets/Images/projects/garage.png",
+                "alt":"garage",
+                "members":"2 persons",
+                "link": "https://github.com/Taleb01/MVC-Garage-Application"
+        },
+        {
+                "name": "KaraokeBar",
+                "description": "A GitHub, hoppy project, the project built in ASP .NET MVC5. The application gives the user the ability to choose the song and then show the text on the console so the user can sing the song.",
+                "imgUrl": "./assets/Images/projects/karaoke.png",
+                "alt":"caraoke bar",
+                "members":"1 person",
+                "link": "https://github.com/Taleb01/KaraokeBar"
+        }
+]

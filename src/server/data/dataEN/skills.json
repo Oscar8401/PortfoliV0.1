@@ -1,0 +1,42 @@
+[
+        {
+                "title": "Programming language",
+                "description": "C#, JavaScript, TypeScript, C, Python."
+        },
+        {
+                "title": "Marking Language",
+                "description": "HTML5, XML, JSON, CSS3, SASS."
+        },
+        {
+                "title": "Frontend framework",
+                "description": "Bootstrap, jQuery, AngularJs, Angular5."
+        },
+        {
+                "title": "ServerSide",
+                "description": "ASP.NET MVC."
+        },
+        {
+                "title": "Database",
+                "description": "MS SQL, Sqlite."
+        },
+        {
+                "title": "Tools",
+                "description": "VisualStudio, VisualStudio Code, Atom, Brackets., Jira, Bitbucket"
+        },
+        {
+                "title": "Version Control",
+                "description": "GIT/GitHub"
+        },
+        {
+                "title": "CMS",
+                "description": "WordPress, Joomla."
+        },
+        {
+                "title": "Project methods",
+                "description": "Scrum, Agile"
+        },
+        {
+                "title": "Other skills",
+                "description": "SEO"
+        }
+]

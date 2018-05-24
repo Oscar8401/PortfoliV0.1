@@ -1,0 +1,72 @@
+<section>    
+<mdb-carousel [isControls]="true" [animation]="'slide'">
+        <mdb-slide>
+            <img class="d-block w-100 carousel-fix" src="../assets/Images/carousel/carousel1.jpg" alt="First slide">
+        </mdb-slide>
+
+        <mdb-slide>
+            <img class="d-block w-100 carousel-fix" src="../assets/Images/carousel/carousel2.jpg" alt="Second slide">
+        </mdb-slide>
+
+        <mdb-slide>
+            <img class="d-block w-100 carousel-fix" src="../assets/Images/carousel/carousel3.jpg" alt="Third slide">
+        </mdb-slide>
+    </mdb-carousel>
+                    
+</section>
+
+<section class="padding">
+  <div class="container">
+<div class="author-box">
+    <h3 class="h3-responsive text-center">About me</h3>
+    <hr>
+    <div class="row">
+        <div class="col-12 col-sm-2">
+            <img src="./assets/Images/portraite/profilepicture.png" class="img-fluid rounded-circle z-depth-2 animated bounceIn">
+        </div>
+        <div class=" col-12 col-sm-10 animated bounceInUp">
+            <p><strong>Taleb Moustafa</strong></p>
+            <div class="personal-sm">
+                <a href="https://www.facebook.com/taleb.Mosyri" target="_blank"><i class="fa fa-facebook"> </i></a>&nbsp;
+                <a href="https://se.linkedin.com/in/moustafa-taleb-1b3b15aa" target="_blank"><i class="fa fa-linkedin"> </i></a>&nbsp;
+                <a href="mailto:taleb_n1@hotmail.com"><i class="fa fa-envelope-o"> </i></a>&nbsp;
+                <a href="https://github.com/Taleb01" target="_blank"><i class="fa fa-github"> </i></a>&nbsp;
+                <a href="https://www.pinterest.com/mosyri/" target="_blank"><i class="fa fa-pinterest"> </i></a>&nbsp;
+
+            </div>
+            <br>
+            <p>{{home.title}}</p>
+            <p class="hidden-md-down">{{home.description}} </p>
+        </div>
+    </div>
+</div>
+  </div>
+</section>
+ 
+<section class="padding">
+  <div class="container">
+    <div class="row text-left">
+        <div class="col-md-4 mb-4">
+            <div class="col-10 col-md-9 col-lg-10 float-right animated bounceInUp">
+                <h4 class="font-weight-bold">{{home.whoIam}}</h4>
+                <p class="grey-text">{{home.text}}</p>
+                <a class="btn btn-primary btn-sm ml-0 waves-light" mdbWavesEffect routerLink="/about-me">Read more</a>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="col-10 col-md-9 col-lg-10 float-right animated bounceInUp">
+                <h4 class="font-weight-bold">{{home.Employmenytitlet}}</h4>
+                <p class="grey-text">{{home.EmploymentHistory}}</p>
+                <a class="btn btn-pink btn-sm ml-0 waves-light" mdbWavesEffect routerLink="/experience">Learn more</a>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="col-10 col-md-9 col-lg-10 float-right animated bounceInUp">
+                <h4 class="font-weight-bold">{{home.download}}</h4>
+                <p class="grey-text">{{home.downloadCV}}</p>
+                <a class="btn btn-secondary btn-sm ml-0 waves-light" mdbWavesEffect href="./assets/pdf/CV.pdf" download="CV">Download</a>
+            </div>
+        </div>
+    </div>
+  </div>
+</section>

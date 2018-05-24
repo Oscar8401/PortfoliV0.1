@@ -1,0 +1,33 @@
+[
+        {
+                "title":"",
+                "description":"Any questions about my wotk, I'd love to answer them! Or if you have an oppertunity you think I'd like to get involved in, then please, drop me a message and I'll get back to you."
+        },
+        {
+                "title":"",
+                "description":"../assets/Images/portraite/profilepicture.png"
+        },
+        {
+                "title":"I speak",
+                "description": [
+                        "Swedish: Full professional proficiency",
+                        "English: Full professional proficiency.",
+                        "Greek: Native or bilingual proficiency",
+                        "Arabic: Native or bilingual proficiency."
+                ]
+        },
+        {
+                "title":"I'm interested in",
+                "description": [
+                        "Commissions","\n",
+                        "Career opportunities",
+                        "Consulting offers",
+                        "New ventures",
+                        "Feedback"
+                ]
+        },
+        {
+                "title":"",
+                "description":""
+        }
+]

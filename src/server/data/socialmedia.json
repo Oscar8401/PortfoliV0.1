@@ -1,0 +1,27 @@
+[
+        {
+                "name":"facebook",
+                "url":"https://www.facebook.com/taleb.Mosyri",
+                "class":"fa fa-facebook"
+        },
+        {
+                "name":"linkedIn",
+                "url":"https://se.linkedin.com/in/moustafa-taleb-1b3b15aa",
+                "class":"fa fa-linkedin"
+        },
+        {
+                "name":"mail",
+                "url":"mailto:taleb_n1@hotmail.com",
+                "class":"fa fa-envelope-o"
+        },
+        {
+                "name":"github",
+                "url":"https://github.com/Taleb01",
+                "class":"fa fa-github"
+        },
+        {
+                "name":"pinterset",
+                "url":"https://www.pinterest.com/mosyri/",
+                "class":"fa fa-pinterest"
+        }
+]

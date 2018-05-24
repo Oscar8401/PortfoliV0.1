@@ -1,0 +1,50 @@
+[
+        {
+                "name": "Marie Nilsson",
+                "img": "../assets/Images/portraite/marie_nilsson.jpg",
+                "title": "UX/UI Designer",
+                "description": "Taleb har lätt för att samarbeta och har varit mycket hjälpsam i designprocesser för att stötta mig med tekniska designbeslut. Han har varit lösningsorienterad i de projekt vi samarbetat i och har gjort mina designidéer till verklighet",
+                "socialmedia": [
+                        {
+                                "linkedinUrl": "https://www.linkedin.com/in/marie-n/",
+                                "portraiteUrl": "http://marien.se/"
+                        }
+                ]
+        },
+        {
+                "name": "Marie Nilsson",
+                "img": "../assets/Images/portraite/marie_nilsson.jpg",
+                "title": "UX/UI Designer",
+                "description": "Taleb har lätt för att samarbeta och har varit mycket hjälpsam i designprocesser för att stötta mig med tekniska designbeslut. Han har varit lösningsorienterad i de projekt vi samarbetat i och har gjort mina designidéer till verklighet",
+                "socialmedia": [
+                        {
+                                "linkedinUrl": "https://www.linkedin.com/in/marie-n/",
+                                "portraiteUrl": "http://marien.se/"
+                        }
+                ]
+        },
+        {
+                "name": "Marie Nilsson",
+                "img": "../assets/Images/portraite/marie_nilsson.jpg",
+                "title": "UX/UI Designer",
+                "description": "Taleb har lätt för att samarbeta och har varit mycket hjälpsam i designprocesser för att stötta mig med tekniska designbeslut. Han har varit lösningsorienterad i de projekt vi samarbetat i och har gjort mina designidéer till verklighet",
+                "socialmedia": [
+                        {
+                                "linkedinUrl": "https://www.linkedin.com/in/marie-n/",
+                                "portraiteUrl": "http://marien.se/"
+                        }
+                ]
+        },
+        {
+                "name": "Marie Nilsson",
+                "img": "../assets/Images/portraite/marie_nilsson.jpg",
+                "title": "UX/UI Designer",
+                "description": "Taleb har lätt för att samarbeta och har varit mycket hjälpsam i designprocesser för att stötta mig med tekniska designbeslut. Han har varit lösningsorienterad i de projekt vi samarbetat i och har gjort mina designidéer till verklighet",
+                "socialmedia": [
+                        {
+                                "linkedinUrl": "https://www.linkedin.com/in/marie-n/",
+                                "portraiteUrl": "http://marien.se/"
+                        }
+                ]
+        }
+]
