@@ -9,3 +9,8 @@ Nodejs.
 
 # Description
 The project hold the latest version om my CV
+
+# Status
+
+This repository updated very often.
+-The project build under the MIT licence, feel free to download the project and reuse it.
